@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-
-
 ## Queens College
 
 Intro to Econometrics/Econometrics (combined section) (Eco 382/721)              
