@@ -5,7 +5,7 @@ excerpt: "Research"
 author_profile: true
 
 ---
-## ueens College
+## Queens College
 
 Intro to Econometrics/Econometrics (combined section) (Eco 382/721)              
 
