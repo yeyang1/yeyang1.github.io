@@ -15,3 +15,5 @@ Abstract: In this paper a unified M-estimation method is proposed for the matrix
 [3] "GMM Inference in Matrix Exponential Spatial Specification " [with Wim P. Vijverberg] (Available upon request)	
 
 [4] "GMM Estimation of Higher Order Matrix Exponential Spatial Specification " (Available upon request)	
+
+[5] "Model Averaging for Matrix Exponential Spatial Specification" [with Suleyman Taspinar and Osman Dogan]
