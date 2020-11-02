@@ -17,7 +17,7 @@ Business Statistics (STA 2000)
 
 2019 Spring-Fall, 2020 Fall
 
-Statistical Analysis for Economics and Finance (ECO 2000) 
+Statistical Analysis for Economics and Finance (ECO 4000) 
 
 2020 Spring
 
