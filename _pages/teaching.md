@@ -17,6 +17,10 @@ Business Statistics (STA 2000)
 
 2019 Spring-Fall, 2020 Fall
 
+Statistical Analysis for Economics and Finance (ECO 2000) 
+
+2020 Spring
+
 ## Fordham University
 
 Statistical Decision Making (Econ 2142)
