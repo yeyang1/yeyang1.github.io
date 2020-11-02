@@ -16,4 +16,4 @@ Abstract: In this paper a unified M-estimation method is proposed for the matrix
 
 [4] "GMM Estimation of Higher Order Matrix Exponential Spatial Specification " (Available upon request)	
 
-[5] "Model Averaging for Matrix Exponential Spatial Specification" [with Suleyman Taspinar and Osman Dogan]
+[5] "Model Selection for Matrix Exponential Spatial Specification" [with Suleyman Taspinar and Osman Dogan]
