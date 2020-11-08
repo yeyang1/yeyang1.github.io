@@ -12,7 +12,7 @@ Abstract: In this paper a unified M-estimation method is proposed for the matrix
 
 [2] "An M-estimator for Matrix Exponential Spatial Specification with Autoregressive-type Dynamic Effects " (Available upon request)	
 
-[3] "GMM Inference in Matrix Exponential Spatial Specification " [with Wim P. Vijverberg](http://yeyang1.github.io/files/linear.html) (Available upon request)	
+[3] "GMM Inference in Matrix Exponential Spatial Specification " [with Wim P. Vijverberg] (Available upon request)	
 
 [4] "GMM Estimation of Higher Order Matrix Exponential Spatial Specification " (Available upon request)	
 
