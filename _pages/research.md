@@ -16,4 +16,4 @@ Abstract: In this paper a unified M-estimation method is proposed for the matrix
 
 [4] "Model Selection and Model Averaging for Matrix Exponential Spatial Models" [with Osman Dogan and Suleyman Taspinar](Available upon request)
 
-[5] "Fast Estimation of Matrix Exponential Spatial Models"
+[5] "Fast Estimation of Matrix Exponential Spatial Models" [with Osman Dogan and Suleyman Taspinar]
