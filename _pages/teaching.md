@@ -25,4 +25,4 @@ Statistical Analysis for Economics and Finance (ECO 4000)
 
 Statistical Decision Making (Econ 2142)
 
-2018 Fall
+2018 Fall[file:///Users/yyy21987/Downloads/Intro%20notebook.html]
