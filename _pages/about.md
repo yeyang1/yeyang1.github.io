@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in Economics at the City University of New York Graduate Center (CUNY GC). My research fields are spatial econometrics, panel data, applied macroeconometrics and regional economics.
+Welcome! I am a Ph.D. Candidate in Economics at the City University of New York Graduate Center (CUNY GC). My research fields are spatial econometrics, Bayesian econometrics and their applications in machine learning and big data. 
 
 I will be available for interviews during the 2021 ASSA Annual Meeting.
  
