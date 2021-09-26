@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in Economics at the City University of New York Graduate Center (CUNY GC). My research fields are spatial econometrics, Bayesian econometrics and their applications in machine learning and big data. 
-
-I will be available for interviews during the 2021 ASSA Annual Meeting.
+Welcome! I am a Assitant Professor in the department of accounting at the Capital University of Economics and Business (CUEB) in Beijing. My research fields are spatial econometrics, Bayesian econometrics and their applications in machine learning and big data. 
  
