@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Assitant Professor in the department of accounting at the Capital University of Economics and Business (CUEB) in Beijing. My research fields are spatial econometrics, Bayesian econometrics and their applications in machine learning and big data. 
+Welcome! I am a Assitant Professor in the department of accounting at the Capital University of Economics and Business (CUEB) in Beijing. My research fields are spatial econometrics and Bayesian econometrics.
  
