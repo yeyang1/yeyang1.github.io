@@ -1,22 +1,15 @@
 ---
 permalink: /research/
-title: "Publications"
+title: "Publications and working papers"
 excerpt: "Research"
 author_profile: true
 
 ---
+## Publications
 
 [1] "Fast Estimation of Matrix Exponential Spatial Models", [journal version](http://academicpages.github.io/files/journal_version.pdf) [with Osman Dogan and Suleyman Taspinar]
 
-
-
----
-permalink: /research/
-title: "Working papers"
-excerpt: "Research"
-author_profile: true
-
----
+## Working papers
 
 [1] "[Unified M-estimation of Matrix Exponential Spatial Dynamic Panel Specification]" (Job Market Paper, under review)
 
