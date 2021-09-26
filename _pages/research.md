@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-[1] "Fast Estimation of Matrix Exponential Spatial Models(http://academicpages.github.io/files/journal_version.pdf)" [with Osman Dogan and Suleyman Taspinar]
+[1] "[Fast Estimation of Matrix Exponential Spatial Models](http://academicpages.github.io/files/journal_version.pdf)" [with Osman Dogan and Suleyman Taspinar]
 
 
 
