@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working papers
 
-[1] "[Unified M-estimation of Matrix Exponential Spatial Dynamic Panel Specification]" (Job Market Paper, under review)
+[1] "Unified M-estimation of Matrix Exponential Spatial Dynamic Panel Specification" (Job Market Paper, under review)
 
 [2] "Model Selection and Model Averaging for Matrix Exponential Spatial Models" [with Osman Dogan and Suleyman Taspinar] (Under review)
 
