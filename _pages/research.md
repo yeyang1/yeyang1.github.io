@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Publications
 
-[1] "Fast Estimation of Matrix Exponential Spatial Models", [journal version](http://yeyang1.github.io/files/journal_version.pdf) [with Osman Dogan and Suleyman Taspinar] 
+[1] ["Fast Estimation of Matrix Exponential Spatial Models"](http://yeyang1.github.io/files/journal_version.pdf), 2021, with Osman Dogan and Suleyman Taspinar, Journal of Spatial Econometrics, 2, no. 1: 1-50
 
 ## Working papers
 
