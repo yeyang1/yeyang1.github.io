@@ -7,11 +7,11 @@ author_profile: true
 ---
 ## Publications
 
-[1] Yang, Y., Dogan, O., & Taspınar, S. (2022). "Model Selection and Model Averaging for Matrix Exponential Spatial Models", **_Econometric Reviews_**, forthcoming
+[1] Yang, Y., Dogan, O., & Taspınar, S. (2022). "Model Selection and Model Averaging for Matrix Exponential Spatial Models", **_Econometric Reviews_**, forthcoming, [accepted version](http://yeyang1.github.io/files/ch4_MS_version_on_website.pdf)
 
-[2] Yang. Y. (2022). "Unified M-estimation of Matrix Exponential Spatial Dynamic Panel Specification", **_Econometric Reviews_**, forthcoming
+[2] Yang. Y. (2022). "Unified M-estimation of Matrix Exponential Spatial Dynamic Panel Specification", **_Econometric Reviews_**, forthcoming, [accepted version](http://yeyang1.github.io/files/ch_3_MESDPS_version_on_website.pdf)
 
-[3] Yang, Y., Dogan, O., & Taspınar, S. (2021). Fast estimation of matrix exponential spatial models. **Journal of Spatial Econometrics**, 2(1), 1-50. ([Accepted version](http://yeyang1.github.io/files/journal_version.pdf), [journal version]( https://link.springer.com/article/10.1007/s43071-021-00015-2))
+[3] Yang, Y., Dogan, O., & Taspınar, S. (2021). Fast estimation of matrix exponential spatial models. **Journal of Spatial Econometrics**, 2(1), 1-50. ([accepted version](http://yeyang1.github.io/files/journal_version.pdf), [journal version]( https://link.springer.com/article/10.1007/s43071-021-00015-2))
 
 ## Working papers
 
