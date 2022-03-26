@@ -11,7 +11,7 @@ author_profile: true
 
 [2] Yang. Y. (2022). "Unified M-estimation of matrix exponential spatial dynamic panel specification", **_Econometric Reviews_**, forthcoming. ([accepted version](http://yeyang1.github.io/files/ch_3_MESDPS_version_on_website.pdf))
 
-[3] Yang, Y., Dogan, O., & Taspınar, S. (2021). Fast estimation of matrix exponential spatial models. **_Journal of Spatial Econometrics_**, 2(1), 1-50. ([accepted version](http://yeyang1.github.io/files/journal_version.pdf), [journal version]( https://link.springer.com/article/10.1007/s43071-021-00015-2))
+[3] Yang, Y., Dogan, O., & Taspınar, S. (2021). Fast estimation of matrix exponential spatial models. **_Journal of Spatial Econometrics_**, 2(1), 1-50. ([accepted version](http://yeyang1.github.io/files/paper1.pdf), [journal version]( https://link.springer.com/article/10.1007/s43071-021-00015-2))
 
 ## Working papers
 
