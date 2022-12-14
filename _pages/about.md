@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assitant Professor in the Department of Accounting at the Capital University of Economics and Business (CUEB) in Beijing. I obtained my PhD in Economics from City University of New York at Graduate Center. My research fields are spatial econometrics, applied microeconomics and bayesian econometrics.
+Welcome! I am an Assistant Professor in the Department of Accounting at the Capital University of Economics and Business (CUEB) in Beijing. I obtained my PhD in Economics from City University of New York at Graduate Center. My research fields are spatial econometrics, applied microeconomics and bayesian econometrics.
  
