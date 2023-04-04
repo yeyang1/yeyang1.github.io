@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Yang, Y., Dogan, O.,  & Taspınar, S. (2022). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, forthcoming.  ([journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
+[1] Yang, Y., Dogan, O.,  & Taspınar, S. (2022). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, 64, 1281-1314.  ([journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
 
 [2] Yang, Y., Dogan, O., & Taspınar, S. (2022). "Model selection and model averaging for matrix exponential spatial models", **_Econometric Reviews_**, 41:8, 827-858. ([accepted version](http://yeyang1.github.io/files/ch4_MS_version_on_website.pdf), [journal version](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2047507))
 
