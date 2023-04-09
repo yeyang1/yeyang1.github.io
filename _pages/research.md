@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Yang, Y., Dogan, O.,  & Taspınar, S. (2023). " Estimation of Matrix Exponential Unbalanced Panel Data Models with Fixed Effects: An Application to US Outward FDI Stock", Journal of Business & Economic Statistics, forthcoming. [journal verison](https://doi.org/10.1080/07350015.2023.2200486)
+[1] Yang, Y., Dogan, O.,  & Taspınar, S. (2023). " Estimation of Matrix Exponential Unbalanced Panel Data Models with Fixed Effects: An Application to US Outward FDI Stock", Journal of Business & Economic Statistics, forthcoming. ([journal verison](https://doi.org/10.1080/07350015.2023.2200486))
 
 [2] Yang, Y., Dogan, O.,  & Taspınar, S. (2023). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, 64, 1281-1314.  ([journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
 
