@@ -6,8 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Dogan, Osman, Ye Yang,  & Suleyman Taspinar. (2023). "Information criteria for matrix exponential spatial specifications
-", _**Spatial Statistics**_, forthcoming.  ([journal version](https://doi.org/10.1016/j.spasta.2023.100776))
+[1] Dogan, Osman, Ye Yang,  & Suleyman Taspinar. (2023). "Information criteria for matrix exponential spatial specifications", _**Spatial Statistics**_, forthcoming.  ([journal version](https://doi.org/10.1016/j.spasta.2023.100776))
 
 [2] Yang, Ye, Osman Dogan,  & Suleyman Taspinar. (2023). "Estimation of matrix exponential unbalanced panel data models with fixed effects: an application to US outward FDI stock", _**Journal of Business & Economic Statistics**_, forthcoming. ([journal version](https://doi.org/10.1080/07350015.2023.2200486))
 
