@@ -10,7 +10,7 @@ author_profile: true
 
 [2] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2023). "Estimation of matrix exponential unbalanced panel data models with fixed effects: an application to US outward FDI stock", _**Journal of Business & Economic Statistics**_, forthcoming. ([accepted version](http://yeyang1.github.io/files/paper5.pdf), [web appendix](http://yeyang1.github.io/files/UMESS_Web_Appendix.pdf), [journal version](https://doi.org/10.1080/07350015.2023.2200486))
 
-[3] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2023). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, 64, 1281-1314. ([accepted version](http://yeyang1.github.io/files/paper6.pdf), ([journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
+[3] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2023). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, 64, 1281-1314. ([accepted version](http://yeyang1.github.io/files/paper6.pdf), [journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
 
 [4] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2022). "Model selection and model averaging for matrix exponential spatial models", **_Econometric Reviews_**, 41:8, 827-858. ([accepted version](http://yeyang1.github.io/files/ch4_MS_version_on_website.pdf), [journal version](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2047507))
 
