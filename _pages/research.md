@@ -6,9 +6,9 @@ author_profile: true
 
 ---
 ## Publications
-[1]  Osman Dogan, Ye Yang,  & Suleyman Taspinar. (2023). "Information criteria for matrix exponential spatial specifications", _**Spatial Statistics**_, 57, 100776.  ([accepted version](http://yeyang1.github.io/files/Information_Criteria_for_MESS.pdf), [web appendix](http://yeyang1.github.io/files/IC_MESS_web_appendix.pdf), [journal version](https://doi.org/10.1016/j.spasta.2023.100776))
+[1]  Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2024). "Estimation of matrix exponential unbalanced panel data models with fixed effects: an application to US outward FDI stock", _**Journal of Business & Economic Statistics**_, 42(2), 469-484. ([accepted version](http://yeyang1.github.io/files/paper5.pdf), [web appendix](http://yeyang1.github.io/files/UMESS_Web_Appendix.pdf), [journal version](https://doi.org/10.1080/07350015.2023.2200486))
 
-[2] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2023). "Estimation of matrix exponential unbalanced panel data models with fixed effects: an application to US outward FDI stock", _**Journal of Business & Economic Statistics**_, forthcoming. ([accepted version](http://yeyang1.github.io/files/paper5.pdf), [web appendix](http://yeyang1.github.io/files/UMESS_Web_Appendix.pdf), [journal version](https://doi.org/10.1080/07350015.2023.2200486))
+[2] Osman Dogan, Ye Yang,  & Suleyman Taspinar. (2023). "Information criteria for matrix exponential spatial specifications", _**Spatial Statistics**_, 57, 100776.  ([accepted version](http://yeyang1.github.io/files/Information_Criteria_for_MESS.pdf), [web appendix](http://yeyang1.github.io/files/IC_MESS_web_appendix.pdf), [journal version](https://doi.org/10.1016/j.spasta.2023.100776))
 
 [3] Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2023). "Observed-data DIC for spatial panel data models", _**Empirical Economics**_, 64, 1281-1314. ([accepted version](http://yeyang1.github.io/files/paper6.pdf), [journal version](https://link.springer.com/article/10.1007/s00181-022-02286-6)) 
 
