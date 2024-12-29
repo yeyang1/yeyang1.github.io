@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Osman Dogan, Ye Yang & Suleyman Taspinar. (2024). "Integrated modified harmonic mean method for spatial panel data models", **AStA Advances in Statistical Analysis**, ([accepted version](http://yeyang1.github.io/files/IHME_Article_AStA.pdf), [journal version] (https://doi.org/10.1007/s10182-024-00521-2)
+[1] Osman Dogan, Ye Yang & Suleyman Taspinar. (2024). "Integrated modified harmonic mean method for spatial panel data models", **AStA Advances in Statistical Analysis**, ([accepted version](http://yeyang1.github.io/files/IHME_Article_AStA.pdf), [journal version] (https://doi.org/10.1007/s10182-024-00521-2))
 
 [2]  Ye Yang, Osman Dogan,  & Suleyman Taspinar. (2024). "Estimation of matrix exponential unbalanced panel data models with fixed effects: an application to US outward FDI stock", _**Journal of Business & Economic Statistics**_, 42(2), 469-484. ([accepted version](http://yeyang1.github.io/files/paper5.pdf), [web appendix](http://yeyang1.github.io/files/UMESS_Web_Appendix.pdf), [journal version](https://doi.org/10.1080/07350015.2023.2200486))
 
