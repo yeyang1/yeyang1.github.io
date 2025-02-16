@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "Cross‐Sectional matrix exponential spatial models: a comprehensive review and some new results ", **_Journal of Economic Surveys_**. ([accepted version](http://yeyang1.github.io/files/ReviewMESSModels.pdf), [journal version](https://doi.org/10.1111/joes.12683))
+[1] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "Cross‐Sectional matrix exponential spatial models: a comprehensive review and some new results", **_Journal of Economic Surveys_**. ([accepted version](http://yeyang1.github.io/files/ReviewMESSModels.pdf), [journal version](https://doi.org/10.1111/joes.12683))
 
 [2] Osman Dogan, Ye Yang & Suleyman Taspinar. (2024). "Integrated modified harmonic mean method for spatial panel data models", **_AStA Advances in Statistical Analysis_**. ([accepted version](http://yeyang1.github.io/files/IHME_Article_AStA.pdf), [journal version](https://doi.org/10.1007/s10182-024-00521-2))
 
