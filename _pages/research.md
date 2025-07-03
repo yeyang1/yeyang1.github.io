@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "A Matrix Exponential Approach to Spatial Panel Data Models: An Application to Carbon Emissions", **_Econometrics and Statistics_**. ([journal version](https://www.sciencedirect.com/science/article/abs/pii/S2452306225000358?via%3Dihub))
+[1] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "A Matrix Exponential Approach to Spatial Panel Data Models: An Application to Carbon Emissions", **_Econometrics and Statistics_**. ([journal version](https://www.sciencedirect.com/science/article/abs/pii/S2452306225000358?via%3Dihub))
 
 [2] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "Cross‐Sectional matrix exponential spatial models: a comprehensive review and some new results", **_Journal of Economic Surveys_**. ([accepted version](http://yeyang1.github.io/files/ReviewMESSModels.pdf), [journal version](https://doi.org/10.1111/joes.12683))
 
