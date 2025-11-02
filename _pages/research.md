@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "An M-estimation and inference approach for matrix exponential unbalanced panel data models",**_Spatial Economic Analysis_**. ([journal version](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2542788))
+[1] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "An M-estimation and inference approach for matrix exponential unbalanced panel data models", **_Spatial Economic Analysis_**. ([journal version](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2542788))
 
 [2] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "A matrix exponential approach to spatial panel data models: an application to carbon emissions", **_Econometrics and Statistics_**. ([journal version](https://www.sciencedirect.com/science/article/abs/pii/S2452306225000358?via%3Dihub))
 
