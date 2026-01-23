@@ -6,13 +6,13 @@ author_profile: true
 
 ---
 ## Publications
-[1] Ye Yang, & Wim Vijverberg. (2026). "GMM inference in the matrix exponential spatial specification", **_Journal of Econometrics_**, 254, 106181. ([journal version](https://doi.org/10.1016/j.jeconom.2026.106181))
+[1] Ye Yang & Wim Vijverberg. (2026). "GMM inference in the matrix exponential spatial specification", **_Journal of Econometrics_**, 254, 106181. ([journal version](https://doi.org/10.1016/j.jeconom.2026.106181))
 
 [2] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "An M-estimation and inference approach for matrix exponential unbalanced panel data models", **_Spatial Economic Analysis_**. ([journal version](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2542788))
 
 [3] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "A matrix exponential approach to spatial panel data models: an application to carbon emissions", **_Econometrics and Statistics_**. ([journal version](https://www.sciencedirect.com/science/article/abs/pii/S2452306225000358?via%3Dihub))
 
-[4] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "Cross‐Sectional matrix exponential spatial models: a comprehensive review and some new results", **_Journal of Economic Surveys_**. ([accepted version](http://yeyang1.github.io/files/ReviewMESSModels.pdf), [journal version](https://doi.org/10.1111/joes.12683))
+[4] Ye Yang, Osman Dogan, Suleyman Taspinar & Fei Jin. (2025). "Cross‐Sectional matrix exponential spatial models: a comprehensive review and some new results", **_Journal of Economic Surveys_**, 39(5), 2057-2087. ([accepted version](http://yeyang1.github.io/files/ReviewMESSModels.pdf), [journal version](https://doi.org/10.1111/joes.12683))
 
 [5] Osman Dogan, Ye Yang & Suleyman Taspinar. (2024). "Integrated modified harmonic mean method for spatial panel data models", **_AStA Advances in Statistical Analysis_**. ([accepted version](http://yeyang1.github.io/files/IHME_Article_AStA.pdf), [journal version](https://doi.org/10.1007/s10182-024-00521-2))
 
