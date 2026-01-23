@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 ## Publications
-[1] Ye Yang, & Wim Vijverberg. (2026). "GMM inference in the matrix exponential spatial specification", **_Journal of Econometrics_**. ([journal version](https://doi.org/10.1016/j.jeconom.2026.106181))
+[1] Ye Yang, & Wim Vijverberg. (2026). "GMM inference in the matrix exponential spatial specification", **_Journal of Econometrics_**, 254, 106181. ([journal version](https://doi.org/10.1016/j.jeconom.2026.106181))
 
 [2] Ye Yang, Osman Dogan & Suleyman Taspinar. (2025). "An M-estimation and inference approach for matrix exponential unbalanced panel data models", **_Spatial Economic Analysis_**. ([journal version](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2542788))
 
